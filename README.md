@@ -31,13 +31,18 @@ Welcome to my GitHub profile! I am an aspiring Software Engineer at the Universi
 ### 📫 Let's Connect!
 
 📧 Email: zainys110@gmail.com
+
 💼 LinkedIn: [linkedin.com/in/zain-syed](https://www.linkedin.com/in/zain-syed-38ba652b3/)
+
 🖥 Portfolio: **COMING SOON**
 
 #
 
 ### 🔭 I’m currently working on ...
 🔹 🏎️ Autonomous Driving Software as the Vice President of Technology at [WEAP](https://github.com/WE-Autopilot)
+
 🔹 🧠 ChatToDo; A personal scheduling tool, inspired by LettuceMeet, which uses mathematical equations and AI to reorganize a busy schedule
+
 🔹 📚 My Personal Portfolio
+
 🔹 💡 MNIST Workshop, to teach lower-year students the basics of Machine Learning

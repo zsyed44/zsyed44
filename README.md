@@ -2,7 +2,6 @@
 **`Computer Programmer (Software Engineering, Backend Development, Machine Learning, & More)`**
 
 Welcome to my GitHub profile! I am an aspiring Software Engineer at the University of Western Ontario. I have a passion for Artificial Intelligence, Robotics, and Software Development. The repositories on this profile are a combination of personal projects, team projects, and school projects I have partaken in, all of which were built from the ground up, from the design stage, all the way to the development of them. There are also some projects that are still WIP to be checked out!
-![image](https://github.com/user-attachments/assets/68aaceb2-b48f-4411-bf51-9daa9c1e8517)
 
 ---
 
@@ -37,8 +36,8 @@ Welcome to my GitHub profile! I am an aspiring Software Engineer at the Universi
 
 #
 
-## 🔭 I’m currently working on ...
->🔹 🏎️ Autonomous Driving Software as the Vice President of Technology at [WEAP](https://github.com/WE-Autopilot)
+### 🔭 I’m currently working on ...
+🔹 🏎️ Autonomous Driving Software as the Vice President of Technology at [WEAP](https://github.com/WE-Autopilot)
 🔹 🧠 ChatToDo; A personal scheduling tool, inspired by LettuceMeet, which uses mathematical equations and AI to reorganize a busy schedule
 🔹 📚 My Personal Portfolio
 🔹 💡 MNIST Workshop, to teach lower-year students the basics of Machine Learning

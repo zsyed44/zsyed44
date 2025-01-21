@@ -1,4 +1,4 @@
-# Hi there, I am Zain Syed 👋
+## Hi there, I am Zain Syed 👋
 ---
 **`Computer Programmer (Software Engineering, Backend Development, Machine Learning, & More)`**
 

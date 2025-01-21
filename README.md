@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am an aspiring Software Engineer at the Universi
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
-<br><br>
+<br>
 
 #
 
@@ -39,6 +39,6 @@ Welcome to my GitHub profile! I am an aspiring Software Engineer at the Universi
 
 ## 🔭 I’m currently working on ...
 >🔹 🏎️ Autonomous Driving Software as the Vice President of Technology at [WEAP](https://github.com/WE-Autopilot)
->🔹 🧠 ChatToDo; A personal scheduling tool, inspired by LettuceMeet, which uses mathematical equations and AI to reorganize a busy schedule
->🔹 📚 My Personal Portfolio
->🔹 💡 MNIST Workshop, to teach lower-year students the basics of Machine Learning
+🔹 🧠 ChatToDo; A personal scheduling tool, inspired by LettuceMeet, which uses mathematical equations and AI to reorganize a busy schedule
+🔹 📚 My Personal Portfolio
+🔹 💡 MNIST Workshop, to teach lower-year students the basics of Machine Learning

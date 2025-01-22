@@ -46,3 +46,5 @@ Welcome to my GitHub profile! I am an aspiring Software Engineer at the Universi
 🔹 📚 My Personal Portfolio
 
 🔹 💡 MNIST Workshop, to teach lower-year students the basics of Machine Learning
+
+<img src="https://raw.githubusercontent.com/zsyed44/zsyed44/output/snake.svg" alt="Snake animation" />

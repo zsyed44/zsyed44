@@ -41,10 +41,13 @@ Welcome to my GitHub profile! I am an aspiring Software Engineer at the Universi
 ### 🔭 I’m currently working on ...
 🔹 🏎️ Autonomous Driving Software as the Vice President of Technology at [WEAP](https://github.com/WE-Autopilot)
 
-🔹 🧠 ChatToDo; A personal scheduling tool, inspired by LettuceMeet, which uses mathematical equations and AI to reorganize a busy schedule
+    🔹 💡 Physical Implementation of MPC (Model Predictive Control) for mathematical car movements
+
+🔹 🏥 CollectiCare: A full-stack application enabling health care workers to view and manage patient data at Health Care Camps
+
+🔹 🧠 ChatToDo: A personal scheduling tool, which uses mathematical equations and AI to reorganize a busy schedule
 
 🔹 📚 My Personal Portfolio
 
-🔹 💡 MNIST Workshop, to teach lower-year students the basics of Machine Learning
 
 <img src="https://raw.githubusercontent.com/zsyed44/zsyed44/output/snake.svg" alt="Snake animation" />

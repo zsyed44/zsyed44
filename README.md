@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I am an aspiring Software Engineer at the Universi
 
 🔹 🏥 CollectiCare: A full-stack application enabling health care workers to view and manage patient data at Health Care Camps
 
-🔹 🧠 ChatToDo: A personal scheduling tool, which uses mathematical equations and AI to reorganize a busy schedule
+🔹 💸 An employee payroll full-stack application to manage timesheets for a small local business
 
 🔹 📚 My Personal Portfolio
 

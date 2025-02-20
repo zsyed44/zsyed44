@@ -45,7 +45,10 @@ Welcome to my GitHub profile! I am an aspiring Software Engineer at the Universi
 
 🔹 💸 An employee payroll full-stack application to manage timesheets for a small local business
 
+🔹 🌙 A bot that can solve the fun puzzle game [*Tango*](https://www.linkedin.com/games/tango/)
+
 🔹 📚 My Personal Portfolio
+
 
 
 <img src="https://raw.githubusercontent.com/zsyed44/zsyed44/output/snake.svg" alt="Snake animation" />

@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I am an aspiring Software Engineer at the Universi
 
 🔹 💸 An employee payroll full-stack application to manage timesheets for a small local business
 
-🔹 🌙 A bot that can solve the fun puzzle game [*Tango*](https://www.linkedin.com/games/tango/)
+🔹 🌙 GestureGlide: An RC car controlled by hand gestures!
 
 🔹 📚 My Personal Portfolio
 
